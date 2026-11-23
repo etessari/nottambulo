@@ -17,7 +17,11 @@ using Microsoft.Win32;
 
 [assembly: System.Reflection.AssemblyTitle("Nottambulo")]
 [assembly: System.Reflection.AssemblyProduct("Nottambulo")]
-[assembly: System.Reflection.AssemblyVersion("1.0.0.0")]
+[assembly: System.Reflection.AssemblyVersion("0.1.0.0")]
+[assembly: System.Reflection.AssemblyFileVersion("0.1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersion("0.1.0")]
+[assembly: System.Reflection.AssemblyDescription("Keeps your Windows PC awake, even with the lid closed")]
+[assembly: System.Reflection.AssemblyCopyright("Copyright (c) 2026 etessari, MIT License")]
 
 namespace Nottambulo
 {
