@@ -1,0 +1,4 @@
+# Build output (publish the .exe through GitHub Releases instead)
+*.exe
+*.ico
+*.pdb
