@@ -5,6 +5,13 @@
 *Nottambulo* (Italian for "night owl") is a tiny Windows tray app that keeps your PC awake — even with the
 screen locked and the lid closed — so builds, downloads and AI coding agents can keep working while you're away.
 
+## Download
+
+**[⬇ Download Nottambulo.exe](https://github.com/etessari/nottambulo/releases/latest/download/Nottambulo.exe)** (Windows 10/11, ~40 KB, no installer)
+
+Just run it: the face appears in the system tray. The exe isn't code-signed, so Windows SmartScreen may warn you the first time —
+click *More info → Run anyway*, or [build it yourself](#build) from source.
+
 - **Left-click** the tray face to toggle it on/off (amber face with tired, bloodshot eyes = keeping the PC awake; grey sleeping face = off).
 - **Right-click** for the menu:
   - keep awake until turned off, or for 30 min / 1 / 2 / 4 hours;
